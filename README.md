@@ -1,7 +1,7 @@
 # Sales Insights Using Power BI
 
 ## 📌 Project Overview
-This project is an interactive **Sales Analytics Dashboard built using Power BI to analyze sales performance, profitability, and product trends across different regions and time periods.
+This project is an interactive Sales Analytics Dashboard built using Power BI to analyze sales performance, profitability, and product trends across different regions and time periods.
 
 ## 🎯 Objectives
 - Analyze total sales and profit performance
